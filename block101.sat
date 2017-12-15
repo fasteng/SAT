@@ -1,0 +1,91 @@
+1100 0 1 0           
+37 SolidWorks(2003240)-Sat-Convertor-2.0 12 ACIS 11.0 NT 24 Wed Nov 02 11:20:51 2005 
+1 9.9999999999999995e-007 1e-010 
+-0 body $1 -1 -1 $-1 $2 $-1 $-1 F #
+-1 name_attrib-gen-attrib $-1 -1 $-1 $-1 $0 keep keep_kept ignore copy @8 block100 #
+-2 lump $3 -1 -1 $-1 $-1 $4 $0 F #
+-3 rgb_color-st-attrib $-1 -1 $-1 $-1 $2 0.75294117647058822 0.75294117647058822 0.75294117647058822 #
+-4 shell $-1 -1 -1 $-1 $-1 $-1 $5 $-1 $2 F #
+-5 face $-1 -1 -1 $-1 $6 $7 $4 $-1 $8 reversed single F F #
+-6 face $-1 -1 -1 $-1 $9 $10 $4 $-1 $11 reversed single F F #
+-7 loop $-1 -1 -1 $-1 $-1 $12 $5 F unknown #
+-8 plane-surface $-1 -1 -1 $-1 0 100 -100 0 0 1 1000 0 0 forward_v I I I I #
+-9 face $-1 -1 -1 $-1 $13 $14 $4 $-1 $15 reversed single F F #
+-10 loop $-1 -1 -1 $-1 $-1 $16 $6 F unknown #
+-11 plane-surface $-1 -1 -1 $-1 0 100 0 1 0 0 0 0 -1000 forward_v I I I I #
+-12 coedge $-1 -1 -1 $-1 $17 $18 $19 $20 forward $7 $-1 #
+-13 face $-1 -1 -1 $-1 $21 $22 $4 $-1 $23 forward single F F #
+-14 loop $-1 -1 -1 $-1 $-1 $24 $9 F unknown #
+-15 plane-surface $-1 -1 -1 $-1 0 100 -100 0 -1 0 0 0 -1000 forward_v I I I I #
+-16 coedge $-1 -1 -1 $-1 $25 $26 $27 $28 forward $10 $-1 #
+-17 coedge $-1 -1 -1 $-1 $29 $12 $26 $30 reversed $7 $-1 #
+-18 coedge $-1 -1 -1 $-1 $12 $29 $31 $32 forward $7 $-1 #
+-19 coedge $-1 -1 -1 $-1 $33 $27 $12 $20 reversed $22 $-1 #
+-20 edge $-1 -1 -1 $-1 $34 -0.10000000000000001 $35 0 $12 $36 forward @7 unknown F #
+-21 face $-1 -1 -1 $-1 $37 $38 $4 $-1 $39 reversed single F F #
+-22 loop $-1 -1 -1 $-1 $-1 $27 $13 F unknown #
+-23 plane-surface $-1 -1 -1 $-1 0 0 -100 0 -1 0 0 0 -1000 forward_v I I I I #
+-24 coedge $-1 -1 -1 $-1 $40 $41 $42 $43 forward $14 $-1 #
+-25 coedge $-1 -1 -1 $-1 $42 $16 $44 $45 reversed $10 $-1 #
+-26 coedge $-1 -1 -1 $-1 $16 $42 $17 $30 forward $10 $-1 #
+-27 coedge $-1 -1 -1 $-1 $19 $46 $16 $28 reversed $22 $-1 #
+-28 edge $-1 -1 -1 $-1 $35 -0.10000000000000001 $47 0 $16 $48 forward @7 unknown F #
+-29 coedge $-1 -1 -1 $-1 $18 $17 $41 $49 reversed $7 $-1 #
+-30 edge $-1 -1 -1 $-1 $50 0 $35 0.10000000000000001 $26 $51 forward @7 unknown F #
+-31 coedge $-1 -1 -1 $-1 $52 $53 $18 $32 reversed $38 $-1 #
+-32 edge $-1 -1 -1 $-1 $54 0 $34 0.10000000000000001 $18 $55 forward @7 unknown F #
+-33 coedge $-1 -1 -1 $-1 $46 $19 $53 $56 reversed $22 $-1 #
+-34 vertex $-1 -1 -1 $-1 $56 $57 #
+-35 vertex $-1 -1 -1 $-1 $20 $58 #
+-36 straight-curve $-1 -1 -1 $-1 0 0 -100 -1000 0 0 I I #
+-37 face $-1 -1 -1 $-1 $-1 $59 $4 $-1 $60 reversed single F F #
+-38 loop $-1 -1 -1 $-1 $-1 $53 $21 F unknown #
+-39 plane-surface $-1 -1 -1 $-1 100 100 0 -1 0 0 0 0 1000 forward_v I I I I #
+-40 coedge $-1 -1 -1 $-1 $61 $24 $62 $63 forward $14 $-1 #
+-41 coedge $-1 -1 -1 $-1 $24 $61 $29 $49 forward $14 $-1 #
+-42 coedge $-1 -1 -1 $-1 $26 $25 $24 $43 reversed $10 $-1 #
+-43 edge $-1 -1 -1 $-1 $50 -0.10000000000000001 $64 0 $24 $65 forward @7 unknown F #
+-44 coedge $-1 -1 -1 $-1 $66 $62 $25 $45 forward $59 $-1 #
+-45 edge $-1 -1 -1 $-1 $64 0 $47 0.10000000000000001 $44 $67 forward @7 unknown F #
+-46 coedge $-1 -1 -1 $-1 $27 $33 $66 $68 reversed $22 $-1 #
+-47 vertex $-1 -1 -1 $-1 $28 $69 #
+-48 straight-curve $-1 -1 -1 $-1 0 0 0 0 0 1000 I I #
+-49 edge $-1 -1 -1 $-1 $54 -0.10000000000000001 $50 0 $41 $70 forward @7 unknown F #
+-50 vertex $-1 -1 -1 $-1 $49 $71 #
+-51 straight-curve $-1 -1 -1 $-1 0 100 -100 0 -1000 0 I I #
+-52 coedge $-1 -1 -1 $-1 $72 $31 $61 $73 reversed $38 $-1 #
+-53 coedge $-1 -1 -1 $-1 $31 $72 $33 $56 forward $38 $-1 #
+-54 vertex $-1 -1 -1 $-1 $49 $74 #
+-55 straight-curve $-1 -1 -1 $-1 100 100 -100 0 -1000 0 I I #
+-56 edge $-1 -1 -1 $-1 $75 0 $34 0.10000000000000001 $53 $76 forward @7 unknown F #
+-57 point $-1 -1 -1 $-1 100 0 -100 #
+-58 point $-1 -1 -1 $-1 0 0 -100 #
+-59 loop $-1 -1 -1 $-1 $-1 $66 $37 F unknown #
+-60 plane-surface $-1 -1 -1 $-1 0 100 0 0 0 -1 -1000 0 0 forward_v I I I I #
+-61 coedge $-1 -1 -1 $-1 $41 $40 $52 $73 forward $14 $-1 #
+-62 coedge $-1 -1 -1 $-1 $44 $77 $40 $63 reversed $59 $-1 #
+-63 edge $-1 -1 -1 $-1 $64 0 $78 0.10000000000000001 $40 $79 forward @7 unknown F #
+-64 vertex $-1 -1 -1 $-1 $63 $80 #
+-65 straight-curve $-1 -1 -1 $-1 0 100 0 0 0 1000 I I #
+-66 coedge $-1 -1 -1 $-1 $77 $44 $46 $68 forward $59 $-1 #
+-67 straight-curve $-1 -1 -1 $-1 0 100 0 0 -1000 0 I I #
+-68 edge $-1 -1 -1 $-1 $47 0 $75 0.10000000000000001 $66 $81 forward @7 unknown F #
+-69 point $-1 -1 -1 $-1 0 0 0 #
+-70 straight-curve $-1 -1 -1 $-1 0 100 -100 -1000 0 0 I I #
+-71 point $-1 -1 -1 $-1 0 100 -100 #
+-72 coedge $-1 -1 -1 $-1 $53 $52 $77 $82 forward $38 $-1 #
+-73 edge $-1 -1 -1 $-1 $78 0 $54 0.10000000000000001 $61 $83 forward @7 unknown F #
+-74 point $-1 -1 -1 $-1 100 100 -100 #
+-75 vertex $-1 -1 -1 $-1 $56 $84 #
+-76 straight-curve $-1 -1 -1 $-1 100 0 0 0 0 -1000 I I #
+-77 coedge $-1 -1 -1 $-1 $62 $66 $72 $82 reversed $59 $-1 #
+-78 vertex $-1 -1 -1 $-1 $63 $85 #
+-79 straight-curve $-1 -1 -1 $-1 0 100 0 1000 0 0 I I #
+-80 point $-1 -1 -1 $-1 0 100 0 #
+-81 straight-curve $-1 -1 -1 $-1 0 0 0 1000 0 0 I I #
+-82 edge $-1 -1 -1 $-1 $78 0 $75 0.10000000000000001 $72 $86 forward @7 unknown F #
+-83 straight-curve $-1 -1 -1 $-1 100 100 0 0 0 -1000 I I #
+-84 point $-1 -1 -1 $-1 100 0 0 #
+-85 point $-1 -1 -1 $-1 100 100 0 #
+-86 straight-curve $-1 -1 -1 $-1 100 100 0 0 -1000 0 I I #
+End-of-ACIS-data 
